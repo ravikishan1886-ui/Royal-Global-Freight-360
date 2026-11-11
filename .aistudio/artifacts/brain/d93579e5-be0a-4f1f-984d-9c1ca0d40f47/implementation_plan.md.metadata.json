@@ -1,0 +1,6 @@
+{
+  "summary": "Master implementation plan for FREIGHTFLOW 360, a production-grade multi-tenant international logistics SaaS ecosystem covering end-to-end shipment lifecycles, Gemini AI document processing & mismatch auditing, role-specific portals (Freight Forwarder, Exporter, Importer, Customs Broker, Transporter, Overseas Agent, Super Admin), container demurrage management, financial accounting, marketplace, and Razorpay subscription billing.",
+  "updatedAt": "2026-11-04T17:47:19.784261182Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "FREIGHTFLOW 360",
+  "description": "Complete Full-Stack International Logistics SaaS Ecosystem connecting freight forwarders, exporters, importers, customs brokers, transporters, and overseas agents with Gemini AI document automation, demurrage tracking, and multi-tenant workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
